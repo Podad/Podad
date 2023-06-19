@@ -1,7 +1,5 @@
-- 👋 Podad ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Podad
+- 🌱 I’m currently learning PHP/Python
 
 <!---
 Podad/Podad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
